@@ -14,7 +14,7 @@ baseurl: '/online-cv' #change it according to your repository name
 
 #Profile information
 name: Liqiang He
-tagline: Software Engineer/Machine Learning Engineer
+tagline: <p>Software Engineer</p><p>Machine Learning Engineer</p>
 pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
 #sidebar links
